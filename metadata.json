@@ -1,0 +1,6 @@
+{
+  "name": "Hope Polytechnic",
+  "description": "Official Admission Portal & Student Management System for Hope Polytechnic, Mbak Itam III, Uyo, Akwa Ibom State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
